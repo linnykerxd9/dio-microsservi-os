@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: servidor-descoberta
+  cloud:
+    config:
+      uri: http://localhost:8888
